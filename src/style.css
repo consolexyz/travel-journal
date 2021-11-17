@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color:  #F55A5A;
+    color: white;
+}
+.nav-logo-text{
+    margin: 0;
+}
+.travel-container{
+    display: flex;
+}
+.travel-image{
+    width: 125px;
+    height: 168px;
+}
